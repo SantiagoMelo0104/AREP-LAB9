@@ -32,7 +32,7 @@ Es **importante**❗tener instalado:
   ~~~
   ![imagen](https://github.com/SantiagoMelo0104/AREP-LAB9/assets/123812833/e69c55bb-31c8-4191-8cab-5b9192d6eb13)
 
-* Una vez clonado y configurado en cada , ubicamos y Para ejecutar el proyecto podemos hacerlo presionando cualquiera de los recuadros a continuación
+* Una vez clonado y configurado en cada clase , ubicamos y Para ejecutar el proyecto podemos hacerlo presionando cualquiera de los recuadros a continuación
 ![imagen](https://github.com/SantiagoMelo0104/AREP-LAB9/assets/123812833/2f8d83d7-23d3-414b-984b-c533ded8a9b7)
 
  # Arquitectura 📄 
